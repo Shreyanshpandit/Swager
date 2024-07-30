@@ -17,3 +17,5 @@ public class SwaggerConfig {
                 .description("API documentation for the Apartment Rental System"));
     }
 }
+
+//Swagger config
